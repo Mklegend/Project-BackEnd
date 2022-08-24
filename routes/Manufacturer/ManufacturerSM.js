@@ -2,6 +2,11 @@
 // Authenticate Seller
 // Remove Seller
 // Verify Seller
+// Total Supply
+// Set Total Supply
+// Approve
+// Transfer
+
 
 var express = require("express");
 var ethers = require("ethers");
